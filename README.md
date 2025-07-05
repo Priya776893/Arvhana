@@ -1,7 +1,5 @@
 👩‍💻 Hi, I'm Priya Prasad!
 A passionate Computer Science Engineering student with a strong interest in software development, problem-solving, and building real-world tech solutions. I enjoy working on web and mobile app projects, exploring AI/ML, and contributing to open-source. Always learning, always building.
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
